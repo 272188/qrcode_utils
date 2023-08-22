@@ -1,3 +1,6 @@
+"""
+Arquivo de texto que lista as dependências (bibliotecas e pacotes) necessárias para executar o projeto. É amplamente utilizado para especificar as versões das bibliotecas que o projeto requer para garantir que todas as dependências estejam instaladas corretamente.
+"""
 opencv-python 
 qrcode 
 numpy 
