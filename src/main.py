@@ -2,9 +2,8 @@
 from QrUtilitario.Qr import Qr
 
 # Define uma palavra que será transformada em QR Code
-palavra = "+55(89)994545850"
-#"Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis"
-
+palavra = "Suco de cevadiss, é um leite divinis, qui tem lupuliz, matis, aguis e fermentis"
+#"+55(89)994545850"
 
 # Gera um QR Code a partir da palavra usando o método estático gerar_qr da classe Qr
 # O resultado é armazenado na variável 'dado'
